@@ -1,3 +1,4 @@
+package PB2;
 
 public class Example {
 

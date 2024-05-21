@@ -1,3 +1,5 @@
+package PB2;
+
 
 public class EX2 extends RuntimeException {
 	

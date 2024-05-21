@@ -1,5 +1,6 @@
+package PB2;
 
-public class EX1 extends RuntimeException{
+class EX1 extends RuntimeException{
 	
 	public EX1(){
 		super();
